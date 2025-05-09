@@ -10,7 +10,7 @@ for(char c: word){
     cout << "YES";
     return 0;
    }
-}
+} 
  cout << "NO";
     return 0;
 }
